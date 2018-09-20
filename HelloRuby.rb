@@ -4,3 +4,9 @@ puts "Hello, Ruby!"
 
 print "Hello, "
 print "Ruby!"
+
+=begin
+  Дуже
+  Великий
+  Коментар
+=eng
